@@ -131,3 +131,7 @@ article preview text color
 .md-search-result__teaser {
   color: #BDBDBD !important;
 }
+
+.md-typeset .task-list-control .task-list-indicator:before {
+  color: rgba(255, 255, 255, .26);
+}
