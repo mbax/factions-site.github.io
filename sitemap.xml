@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://factions-support.cf/</loc>
-     <lastmod>2019-10-06</lastmod>
+     <lastmod>2019-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://factions-support.cf/support/</loc>
-     <lastmod>2019-10-06</lastmod>
+     <lastmod>2019-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://factions-support.cf/introduction/</loc>
-     <lastmod>2019-10-06</lastmod>
+     <lastmod>2019-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://factions-support.cf/firststeps/</loc>
-     <lastmod>2019-10-06</lastmod>
+     <lastmod>2019-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://factions-support.cf/commands/</loc>
-     <lastmod>2019-10-06</lastmod>
+     <lastmod>2019-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://factions-support.cf/permissions/</loc>
-     <lastmod>2019-10-06</lastmod>
+     <lastmod>2019-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://factions-support.cf/placeholders/</loc>
-     <lastmod>2019-10-06</lastmod>
+     <lastmod>2019-11-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://factions-support.cf/particles/</loc>
+     <lastmod>2019-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
