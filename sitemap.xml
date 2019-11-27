@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://factions-support.cf/</loc>
-     <lastmod>2019-11-23</lastmod>
+     <loc>https://factions.support/</loc>
+     <lastmod>2019-11-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://factions-support.cf/support/</loc>
-     <lastmod>2019-11-23</lastmod>
+     <loc>https://factions.support/help/</loc>
+     <lastmod>2019-11-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://factions-support.cf/introduction/</loc>
-     <lastmod>2019-11-23</lastmod>
+     <loc>https://factions.support/introduction/</loc>
+     <lastmod>2019-11-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://factions-support.cf/firststeps/</loc>
-     <lastmod>2019-11-23</lastmod>
+     <loc>https://factions.support/firststeps/</loc>
+     <lastmod>2019-11-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://factions-support.cf/commands/</loc>
-     <lastmod>2019-11-23</lastmod>
+     <loc>https://factions.support/commands/</loc>
+     <lastmod>2019-11-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://factions-support.cf/permissions/</loc>
-     <lastmod>2019-11-23</lastmod>
+     <loc>https://factions.support/permissions/</loc>
+     <lastmod>2019-11-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://factions-support.cf/placeholders/</loc>
-     <lastmod>2019-11-23</lastmod>
+     <loc>https://factions.support/placeholders/</loc>
+     <lastmod>2019-11-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://factions-support.cf/particles/</loc>
-     <lastmod>2019-11-23</lastmod>
+     <loc>https://factions.support/particles/</loc>
+     <lastmod>2019-11-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
